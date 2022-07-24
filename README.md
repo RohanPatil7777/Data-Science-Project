@@ -1,5 +1,5 @@
 # Data-Science
-Here in this project you can see various data science techniques such as importing data sets, visualization of the data, training and testing data, building machine learning models, accuracy and prediction of the model.
+Here in this project you can see various data science techniques such as importing data sets, data cleaning, visualization of the data, training and testing data, building machine learning models, accuracy and prediction of the model.
 
 # Packages
 1.NumPy - Used for mathematical computations, adding support for large, multi-dimensional arrays and matrices.<br>
